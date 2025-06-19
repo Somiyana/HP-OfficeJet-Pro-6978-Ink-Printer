@@ -7,11 +7,13 @@ How to Download HP OfficeJet Pro 6978 Ink Printer Driver?
 The HP OfficeJet Pro 6978 is an all-in-one inkjet printer designed to cater to both home and small business needs. It offers a range of features including printing, scanning, copying, and faxing, making it a versatile device for daily tasks. To ensure that your printer performs optimally, it's crucial to download and install the appropriate driver. A printer driver is the software that allows your computer and printer to communicate and work together. Without the correct driver, your printer may not function correctly, or some features may not be accessible.
 
 
+
 .. image:: click-download.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://i-downloadsoftwares.com/
+
 In this article, we will guide you through the process of downloading and installing the correct HP OfficeJet Pro 6978 ink printer driver for your computer. This step-by-step guide will help ensure that your printer works seamlessly and allows you to take full advantage of its capabilities.
 
 Why Do You Need the HP OfficeJet Pro 6978 Printer Driver?
